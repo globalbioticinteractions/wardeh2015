@@ -61,7 +61,7 @@
             "datatype": "string"
           },
           {
-            "name": "referenceUrl",
+            "name": "sourceOccurrenceId",
             "titles": "Sequences",
             "separator": ";",
             "datatype": {
