@@ -19,7 +19,8 @@
       "rdfs:comment": [
         "inspired by https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/"
       ],
-      "url": "https://figshare.com/ndownloader/files/2196534",
+      "_url": "https://figshare.com/ndownloader/files/2196534",
+      "url": "SpeciesInteractions_EID2.csv",
       "dcterms:bibliographicCitation": "Wardeh, M., Risley, C., McIntyre, M. et al. Database of host-pathogen and related species interactions, and their global distribution. Sci Data 2, 150049 (2015). https://doi.org/10.1038/sdata.2015.49",
       "delimiter": ",",
       "headerRowCount": 1,
